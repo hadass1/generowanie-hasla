@@ -1,1 +1,1 @@
-# generowanie-hasla
+Adrian Hadasik 2AP
